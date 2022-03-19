@@ -14,4 +14,6 @@ make run
 dbt --version
 ```
 
-![dbt_version](images/dbt_version.png)
+<div align="center">
+    <img src="images/dbt_version.png"/>
+</div>
